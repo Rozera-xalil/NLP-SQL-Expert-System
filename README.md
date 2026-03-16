@@ -21,3 +21,13 @@ To demonstrate the power of the **Hybrid NLP & Rule-Based Logic**, here is a loo
 
 > **Note:** The engine automatically determines constraints and data types based on the context provided in the input.
 
+
+## 👤 About me
+
+I am **ROZÊRA XELÎL** from **ROJAVA**, a Full-Stack Developer & AI Student 🤖  
+dedicated to bridging the gap between **human language** and **machine logic**.
+
+> 💥✨ **"2 + 2 = 1 ✌🏻❤🤍💛💚 — ."** 🧩⚡
+
+---
+ 
